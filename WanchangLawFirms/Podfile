@@ -1,0 +1,18 @@
+platform :ios,'9.0'
+target 'WanchangLawFirms' do
+pod 'AFNetworking'
+pod 'MJExtension'
+pod 'SDAutoLayout'
+pod 'MBProgressHUD'
+pod 'SDWebImage'
+pod 'MJRefresh'
+pod 'Realm'
+pod 'SocketRocket'
+pod 'TencentOpenAPI-Unofficial'
+pod 'WeiboSDK'
+pod 'WechatOpenSDK'
+pod 'AlipaySDK-iOS'
+pod 'Bugly'
+pod 'AliyunOSSiOS'
+pod 'JTCalendar'
+end

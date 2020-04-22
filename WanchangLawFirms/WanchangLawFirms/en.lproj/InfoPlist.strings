@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  WanchangLawFirms
+
+  Created by lh on 2018/11/29.
+  Copyright © 2018 gaming17. All rights reserved.
+*/
+CFBundleDisplayName = "欧伶猪法律法务咨询";
+NSCameraUsageDescription = "聊天发送图片消息，上传头像时可以选择相机拍照。如果不允许，您将无法在欧伶猪中拍摄照片。";
+NSPhotoLibraryUsageDescription = "聊天发送图片消息、咨询问题上传图片、以及保存图片到系统相册时会请求相册使用权限。如果不允许，欧伶猪将无权访问系统相册，无法选择照片发送，也无法把欧伶猪图片保存到系统相册。";
+NSContactsUsageDescription = "若不允许，您将无法发现已在使用欧伶猪法务的通讯录好友。";
+NSLocationWhenInUseUsageDescription = "请选择始终允许，不然系统将不能在后台保持较长时间的socket通信连接，无法及时对您进行订单消息提醒。";
+NSLocationAlwaysAndWhenInUseUsageDescription = "请选择始终允许，不然系统将不能在后台保持较长时间的socket连接，无法及时对您进行订单消息提醒。";
+NSMicrophoneUsageDescription = "若不允许，您将无法发送语音消息，也无法拍摄带有声音内容的视频。";
+NSCalendarsUsageDescription = "若不允许，将无法访问您的日历";
